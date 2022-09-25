@@ -1,3 +1,3 @@
-# Hola-mundo
+# Hola
 Mi primer repositorio de prueba
 Cambios realizados
